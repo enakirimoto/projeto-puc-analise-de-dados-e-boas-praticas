@@ -1,7 +1,9 @@
 # projeto-puc-analise-de-dados-e-boas-praticas
-MVP do sprint de análise de dados e boas práticas. 
-Análise de Dados de OEE (Overall Equipment Effectiveness)
-Este projeto tem como objetivo analisar um conjunto de dados de OEE (Overall Equipment Effectiveness) de diversas máquinas semelhantes. Através da exploração e modelagem dos dados, busca-se compreender o comportamento de atributos chave como dia da semana, OEE, IE (Índice de Eficiência) e IQ (Índice de Qualidade), bem como os eventos de parada, para desenvolver um modelo preditivo.
+## MVP do sprint de análise de dados e boas práticas. 
+
+**Análise de Dados de OEE (Overall Equipment Effectiveness)**
+
+ste projeto tem como objetivo analisar um conjunto de dados de OEE (Overall Equipment Effectiveness) de diversas máquinas semelhantes. Através da exploração e modelagem dos dados, busca-se compreender o comportamento de atributos chave como dia da semana, OEE, IE (Índice de Eficiência) e IQ (Índice de Qualidade), bem como os eventos de parada, para desenvolver um modelo preditivo.
 
 🚀 Problema e Objetivos
 O problema central abordado neste projeto é o entendimento do comportamento de performance de máquinas industriais com o objetivo de prever o OEE. O dataset contém informações de diversas máquinas (Alpha, Beta, Gamma, Delta, Epsilon, Zeta, Eta, Theta, Iota, Kappa, Lambda, Sigma, Omega) e eventos de parada, além de indicadores de desempenho.
