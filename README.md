@@ -3,7 +3,7 @@
 
 **Análise de Dados de OEE (Overall Equipment Effectiveness)**
 
-ste projeto tem como objetivo analisar um conjunto de dados de OEE (Overall Equipment Effectiveness) de diversas máquinas semelhantes. Através da exploração e modelagem dos dados, busca-se compreender o comportamento de atributos chave como dia da semana, OEE, IE (Índice de Eficiência) e IQ (Índice de Qualidade), bem como os eventos de parada, para desenvolver um modelo preditivo.
+Este projeto tem como objetivo analisar um conjunto de dados de OEE (Overall Equipment Effectiveness) de diversas máquinas semelhantes. Através da exploração e modelagem dos dados, busca-se compreender o comportamento de atributos chave como dia da semana, OEE, IE (Índice de Eficiência) e IQ (Índice de Qualidade), bem como os eventos de parada, para desenvolver um modelo preditivo.
 
 🚀 Problema e Objetivos
 O problema central abordado neste projeto é o entendimento do comportamento de performance de máquinas industriais com o objetivo de prever o OEE. O dataset contém informações de diversas máquinas (Alpha, Beta, Gamma, Delta, Epsilon, Zeta, Eta, Theta, Iota, Kappa, Lambda, Sigma, Omega) e eventos de parada, além de indicadores de desempenho.
@@ -11,11 +11,11 @@ O problema central abordado neste projeto é o entendimento do comportamento de 
 Hipóteses Iniciais
 Para guiar a análise, foram formuladas as seguintes hipóteses:
 
-Existe alguma correlação entre o OEE e o dia da semana?
+**Existe alguma correlação entre o OEE e o dia da semana?**
 
-Há alguma correlação entre o OEE e os eventos de parada?
+**Há alguma correlação entre o OEE e os eventos de parada?**
 
-Existe algum padrão visual comum entre os equipamentos?
+**Existe algum padrão visual comum entre os equipamentos?**
 
 Tipo de Problema
 Este projeto aborda um problema de classificação supervisionada. O objetivo é, com base em um conjunto de variáveis como dia da semana, turno, máquina e histórico de eventos, prever o OEE do equipamento para o dia seguinte.
